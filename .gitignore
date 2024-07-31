@@ -5,4 +5,5 @@ __pycache__
 venv/
 # Ignore the .env file to avoid copying it into the image
 # .env
-env/
+env1/
+.env
